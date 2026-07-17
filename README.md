@@ -1,7 +1,8 @@
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/a1e758bc-2ecb-44cd-9d7c-dce7c962cd80" controls width="300"></video>
+  <video src="https://github.com/user-attachments/assets/a1e758bc-2ecb-44cd-9d7c-dce7c962cd80" controls width="220"></video>
 </p>
-<p align="center"><sub>🎧 click unmute, then play — coding vibes</sub></p>
+<p align="center"><sub>🎧 coding vibes</sub></p>
+
 <img width="850" height="484" alt="c25fb242305abeb81fa2a2de84eb4aa9" src="https://github.com/user-attachments/assets/fe9ba377-6346-481e-87ff-45ab26d44c40" />
 
 ### 🧠 Currently building
