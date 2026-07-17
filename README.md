@@ -1,33 +1,4 @@
-<br>
-
-```
-
-                .:::::::::.                      ramshetty01@github
-             ::::::::::::+:                      -------------------
-              .:::::::::::.                      OS: Agentic AI Engineer
-       .... .:++++++++++++:+++++:.   .::.        Host: orelyn.in
-    ...   ::::::+++++++++++++::++::.::::::.      Kernel: LLMs / Deep Learning
-  :::::.::*+:***+:::::::::::+**+::+*++::::::     Uptime: 3 weeks on GitHub
-  ::::::+*@*+@@@+:++++++::::#%%*::::##::::::     Packages: 17 (10 public, 7 private)
-.::::::::+#%%%%%%%%%%%##*++++**+++++%%:::::::.   Shell: python3 / typescript
-.+:::::::::*#@@@@@@@%#++#%@@@@@@@@@@#*:+:        Theme: Gargantua [Dark/Neon]
- . .::::::+::+******+::::+*%%%%%%%#+++:::        Terminal: VS Code
- .  ... :*++:::::::::::::::++++++++:*+ ..   .    CPU: Curiosity @ 100%
-.+.     :**+::::::::::::::::::::::::*+    ..+.   Memory: LLM context window
-.::.  .::+*+::::+:::::::::::::::++::+:::. :::.   
-  ::.::::::++:::++*+::+*****+::++++::::++++:     Languages:
-  :+**++::::::::::::++:::::::++::::::::++++:     TypeScript ---- 35%
-   .+***++++::::+: ...      ...:::::+++**+.      Python -------- 30%
-     :+*****++++:.              .:++***+:        Jupyter NB ---- 18%
-       :::******:................++*:::          JavaScript ---- 12%
-          ...++++++++++++++++++:::..             Other --------- 5%
-                :::::::::::::::.                 
-                                                 Followers: 7   Following: 12
-                                                 Achievements: Pull Shark x2
-
-```
-
-<br>
+<img width="728" height="484" alt="c25fb242305abeb81fa2a2de84eb4aa9" src="https://github.com/user-attachments/assets/fe9ba377-6346-481e-87ff-45ab26d44c40" />
 
 ### 🧠 Currently building
 
