@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ram</h1>
-<h3 align="center">Diving deep into LLMs, Deep Learning & Agentic AI — curious about this tech</h3>
-
 <br>
 
 ```
