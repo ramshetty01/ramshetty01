@@ -1,3 +1,7 @@
+<p align="center">
+  <video src="https://github.com/user-attachments/files/30141243/02-cornfield-chase_oIwE8MWk.mp3" controls width="300"></video>
+</p>
+<p align="center"><sub>🎧 click unmute, then play — coding vibes</sub></p>
 <img width="850" height="484" alt="c25fb242305abeb81fa2a2de84eb4aa9" src="https://github.com/user-attachments/assets/fe9ba377-6346-481e-87ff-45ab26d44c40" />
 
 ### 🧠 Currently building
