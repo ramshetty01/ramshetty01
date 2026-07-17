@@ -2,8 +2,9 @@
 
 <br>
 
-### ⚙️ Tech Stack
 
+<br></br>
+TECH STACK 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=8E9296" />
   <img src="https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=8E9296" />
@@ -13,8 +14,8 @@
   <img src="https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=8E9296" />
 </p>
 
-
-### 🔗 Connect
+<br></br>
+CONNECT
 
 <p align="left">
   <a href="https://orelyn.in" target="_blank"><img src="https://img.shields.io/badge/-orelyn.in-000000?style=for-the-badge&logo=googlechrome&logoColor=8E9296" /></a>
