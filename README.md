@@ -22,7 +22,3 @@ CONNECT
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Powered%20by%20Curiosity-000000?style=flat-square&logoColor=39FF14&color=8E9296" />
-</p>
