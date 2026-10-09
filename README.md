@@ -1,5 +1,4 @@
 <br>
-<br></br>
 TECH STACK 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=8E9296" />
