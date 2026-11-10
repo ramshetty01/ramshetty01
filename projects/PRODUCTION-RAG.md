@@ -1,4 +1,4 @@
-# PRODUCTION-RAG — local document retrieval application
+# Production RAG — project brief
 
 Repository: https://github.com/ramshetty01/PRODUCTION-RAG
 

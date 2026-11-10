@@ -1,0 +1,62 @@
+{
+  "EREVNA": {
+    "name": "EREVNA",
+    "description": "Evidence-backed research with passage retrieval, citation checks and inspectable claim reviews.",
+    "topics": [
+      "python",
+      "rag",
+      "llm",
+      "fastapi",
+      "streamlit",
+      "information-retrieval",
+      "evaluation"
+    ],
+    "repository_url": "https://github.com/ramshetty01/EREVNA",
+    "brief_url": "https://github.com/ramshetty01/EREVNA/blob/main/docs/PROJECT_BRIEF.md"
+  },
+  "PRODUCTION-RAG": {
+    "name": "Production RAG",
+    "description": "Document retrieval with workspace-aware access, cited answers and explicit evaluation evidence.",
+    "topics": [
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "fastapi",
+      "chromadb",
+      "vector-search",
+      "evaluation"
+    ],
+    "repository_url": "https://github.com/ramshetty01/PRODUCTION-RAG",
+    "brief_url": "https://github.com/ramshetty01/PRODUCTION-RAG/blob/main/docs/PROJECT_BRIEF.md"
+  },
+  "realtime-voice-ai-lab": {
+    "name": "Realtime Voice AI Lab",
+    "description": "A voice-assistant lab with ASR/LLM/TTS adapters, request traces and explicit fallback reporting.",
+    "topics": [
+      "python",
+      "voice-ai",
+      "fastapi",
+      "nextjs",
+      "websockets",
+      "speech-recognition",
+      "speech-synthesis"
+    ],
+    "repository_url": "https://github.com/ramshetty01/realtime-voice-ai-lab",
+    "brief_url": "https://github.com/ramshetty01/realtime-voice-ai-lab/blob/main/docs/PROJECT_BRIEF.md"
+  },
+  "multiagent-software-team": {
+    "name": "Multi-Agent Software Team",
+    "description": "Issue-to-PR orchestration with task dependencies, isolated worktrees and review/test gates.",
+    "topics": [
+      "python",
+      "multi-agent",
+      "ai-agents",
+      "github-automation",
+      "developer-tools",
+      "llmops",
+      "software-engineering"
+    ],
+    "repository_url": "https://github.com/ramshetty01/multiagent-software-team",
+    "brief_url": "https://github.com/ramshetty01/multiagent-software-team/blob/main/docs/PROJECT_BRIEF.md"
+  }
+}

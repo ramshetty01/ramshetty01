@@ -1,4 +1,4 @@
-# Multi-Agent Software Engineering Team — project brief
+# Multi-Agent Software Team — project brief
 
 Repository: https://github.com/ramshetty01/multiagent-software-team
 

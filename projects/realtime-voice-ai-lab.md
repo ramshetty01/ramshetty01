@@ -1,4 +1,4 @@
-# Realtime Voice AI Reliability Lab — project brief
+# Realtime Voice AI Lab — project brief
 
 Repository: https://github.com/ramshetty01/realtime-voice-ai-lab
 
