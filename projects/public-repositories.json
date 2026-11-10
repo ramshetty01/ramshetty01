@@ -1,0 +1,90 @@
+{
+  "ramshettyportfolio": {
+    "description": "A responsive personal portfolio built with HTML and CSS.",
+    "topics": [
+      "portfolio",
+      "html",
+      "css"
+    ],
+    "repository_url": "https://github.com/ramshetty01/ramshettyportfolio"
+  },
+  "agentharness": {
+    "description": "A Python learning project for agent state transitions, lifecycle hooks, event logs and execution budgets.",
+    "topics": [
+      "python",
+      "ai-agents",
+      "state-machine",
+      "learning-project"
+    ],
+    "repository_url": "https://github.com/ramshetty01/agentharness"
+  },
+  "ISSUES-TO-PR-AUTONOMOUS-AGENT": {
+    "description": "A self-hosted issue-to-PR agent project with webhook handling, worker orchestration and verification gates.",
+    "topics": [
+      "python",
+      "ai-agents",
+      "github-automation",
+      "developer-tools"
+    ],
+    "repository_url": "https://github.com/ramshetty01/ISSUES-TO-PR-AUTONOMOUS-AGENT"
+  },
+  "fine-tunning-research": {
+    "description": "Small-language-model experiments exploring curriculum learning, LoRA fine-tuning and activation steering.",
+    "topics": [
+      "llm",
+      "fine-tuning",
+      "lora",
+      "activation-steering",
+      "jupyter-notebook"
+    ],
+    "repository_url": "https://github.com/ramshetty01/fine-tunning-research"
+  },
+  "Personal-AI-Tutor": {
+    "description": "An initial scaffold for an adaptive AI tutor with planned memory and multimodal support.",
+    "topics": [
+      "ai-tutor",
+      "project-scaffold"
+    ],
+    "repository_url": "https://github.com/ramshetty01/Personal-AI-Tutor"
+  },
+  "finetunnnig-openmodel": {
+    "description": "Learning notebooks for fine-tuning an open DeepSeek model.",
+    "topics": [
+      "fine-tuning",
+      "deepseek",
+      "jupyter-notebook",
+      "learning-project"
+    ],
+    "repository_url": "https://github.com/ramshetty01/finetunnnig-openmodel"
+  },
+  "OLA_LSTM": {
+    "description": "Hourly bike-ride demand forecasting with a stacked LSTM model.",
+    "topics": [
+      "python",
+      "time-series",
+      "lstm",
+      "demand-forecasting"
+    ],
+    "repository_url": "https://github.com/ramshetty01/OLA_LSTM"
+  },
+  "ML-MODEL": {
+    "description": "Learning notebooks exploring transformer building blocks: RMSNorm, RoPE, grouped-query attention and SwiGLU.",
+    "topics": [
+      "machine-learning",
+      "transformers",
+      "jupyter-notebook",
+      "learning-project"
+    ],
+    "repository_url": "https://github.com/ramshetty01/ML-MODEL"
+  },
+  "ROC-GAME": {
+    "description": "A browser-based rock-paper-scissors game for practicing JavaScript, DOM events and local storage.",
+    "topics": [
+      "javascript",
+      "html",
+      "css",
+      "learning-project"
+    ],
+    "repository_url": "https://github.com/ramshetty01/ROC-GAME"
+  }
+}
