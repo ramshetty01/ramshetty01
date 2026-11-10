@@ -16,3 +16,7 @@ CONNECT
   <code>ramshetty@orelyn.in</code>
 </p>
 <br>
+
+## Project technical portfolio
+
+[Read the code-backed project briefs, architecture and verification evidence](PROJECT_PORTFOLIO.md).
