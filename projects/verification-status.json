@@ -1,0 +1,125 @@
+{
+  "snapshot_local_date": "2026-11-11",
+  "repositories": {
+    "EREVNA": {
+      "tests_passed": 87,
+      "live_tests_skipped": null,
+      "pull_requests": [
+        {
+          "number": 37,
+          "title": "Add model-call budgets, research CLI and concurrency recovery checks",
+          "url": "https://github.com/ramshetty01/EREVNA/pull/37",
+          "merged_at": "2026-11-10T22:38:22Z",
+          "merge_commit_sha": "307d02009fc0181ec7eff0baf3ee8b95ae10b237"
+        },
+        {
+          "number": 38,
+          "title": "Benchmark semantic retrieval and reuse corpus indexes",
+          "url": "https://github.com/ramshetty01/EREVNA/pull/38",
+          "merged_at": "2026-11-10T22:39:00Z",
+          "merge_commit_sha": "e0b385c888b779dd7d735e72e2cc8865e0be416a"
+        },
+        {
+          "number": 40,
+          "title": "Add scoped history deletion and cache schema safeguards",
+          "url": "https://github.com/ramshetty01/EREVNA/pull/40",
+          "merged_at": "2026-11-10T22:39:26Z",
+          "merge_commit_sha": "7c7d372a8fa7c99a06c3a1cd41c63eb340121e3b"
+        },
+        {
+          "number": 41,
+          "title": "Finalize project brief and reproducible Python examples",
+          "url": "https://github.com/ramshetty01/EREVNA/pull/41",
+          "merged_at": "2026-11-10T22:43:03Z",
+          "merge_commit_sha": "7228a0db9ef414768c5778371573a2d762213c71"
+        }
+      ]
+    },
+    "PRODUCTION-RAG": {
+      "tests_passed": 276,
+      "live_tests_skipped": null,
+      "pull_requests": [
+        {
+          "number": 306,
+          "title": "Freeze the scheduled-retention regression clock",
+          "url": "https://github.com/ramshetty01/PRODUCTION-RAG/pull/306",
+          "merged_at": "2026-11-10T22:38:26Z",
+          "merge_commit_sha": "2431b6cf1a1dfe1dc8703e4e1cdbba9ed4288498"
+        },
+        {
+          "number": 307,
+          "title": "Require ingestion privilege and enforce source-download roles",
+          "url": "https://github.com/ramshetty01/PRODUCTION-RAG/pull/307",
+          "merged_at": "2026-11-10T22:39:13Z",
+          "merge_commit_sha": "71cfe0639d7a568fe1572fef1a0ae0330120c608"
+        },
+        {
+          "number": 308,
+          "title": "Isolate upload identities across workspaces and concurrent requests",
+          "url": "https://github.com/ramshetty01/PRODUCTION-RAG/pull/308",
+          "merged_at": "2026-11-10T22:39:52Z",
+          "merge_commit_sha": "f4201a187c251ae2bcfde1fee1ca3bde219e948c"
+        },
+        {
+          "number": 309,
+          "title": "Isolate API-key identities using complete opaque fingerprints",
+          "url": "https://github.com/ramshetty01/PRODUCTION-RAG/pull/309",
+          "merged_at": "2026-11-10T22:40:07Z",
+          "merge_commit_sha": "43458c8512a687a507d6eaae86273cf80db25022"
+        },
+        {
+          "number": 312,
+          "title": "Stop reference-answer evaluation leakage and require actual predictions",
+          "url": "https://github.com/ramshetty01/PRODUCTION-RAG/pull/312",
+          "merged_at": "2026-11-10T22:43:15Z",
+          "merge_commit_sha": "b512a3104a64046a9560d7e74ca790c93b80f6de"
+        }
+      ]
+    },
+    "realtime-voice-ai-lab": {
+      "tests_passed": 71,
+      "live_tests_skipped": null,
+      "pull_requests": [
+        {
+          "number": 237,
+          "title": "Protect voice access, repair trace lifecycle and patch dependency advisories",
+          "url": "https://github.com/ramshetty01/realtime-voice-ai-lab/pull/237",
+          "merged_at": "2026-11-10T22:38:23Z",
+          "merge_commit_sha": "0c3cd03bc51025c505c72fbe638f7af1961238bb"
+        },
+        {
+          "number": 238,
+          "title": "Bound adapter work and expose truthful fallback provenance",
+          "url": "https://github.com/ramshetty01/realtime-voice-ai-lab/pull/238",
+          "merged_at": "2026-11-10T22:39:01Z",
+          "merge_commit_sha": "696f2150917c990a1945f6c02f9cbf9506f17080"
+        }
+      ]
+    },
+    "multiagent-software-team": {
+      "tests_passed": 118,
+      "live_tests_skipped": 4,
+      "pull_requests": [
+        {
+          "number": 146,
+          "title": "Fix truthful execution, DAG scheduling, resume semantics and package install",
+          "url": "https://github.com/ramshetty01/multiagent-software-team/pull/146",
+          "merged_at": "2026-11-10T22:38:25Z",
+          "merge_commit_sha": "1d06d3f205e1801338bf8671898f3ca68abefe8d"
+        },
+        {
+          "number": 149,
+          "title": "Constrain host Git helper execution outside Docker tests",
+          "url": "https://github.com/ramshetty01/multiagent-software-team/pull/149",
+          "merged_at": "2026-11-10T22:39:11Z",
+          "merge_commit_sha": "878165dbb76695c0b7e5cf36fe28cee4f674558f"
+        }
+      ]
+    }
+  },
+  "notes": [
+    "All listed application PRs are merged after green checks.",
+    "Test totals are from each project\u2019s validated final local suite, not one combined test command.",
+    "No public deployment performed; live and mocked evidence are distinguished in chapters."
+  ]
+}
