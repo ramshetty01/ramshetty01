@@ -5,7 +5,7 @@ Applied AI developer working on freelance client projects at Orelyn and web deve
 ## Experience
 
 - **Orelyn — Applied AI Developer (Freelance)** | Apr 2026 – Present | Remote, Bengaluru, India. Building client AI/ML projects and exploring agentic AI, harness engineering and loop-based workflows.
-- **Marcamor Consulting — Web Developer Intern** | May 2024 – Present | On-site, Hyderabad, India. Working on web application development.
+- **Marcamor Consulting — Web Developer Intern** | May 2024 – June 2024 | On-site, Hyderabad, India. Working on web application development.
 
 ## Selected projects
 
