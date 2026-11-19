@@ -1,6 +1,6 @@
 # Hi, I'm Ram
 
-I'm an AI/ML student based in Hyderabad, India, building applications around language models, retrieval and agent workflows. I'm looking for graduate opportunities in applied AI, LLM engineering and Python AI backend development.
+Applied AI engineer with six months at Orelyn AI Studio and a two-month full-stack development internship. Building retrieval systems and agent workflows with Python, FastAPI and TypeScript. Seeking full-time Applied AI Engineer or AI Backend Engineer roles.
 
 ## Selected projects
 
