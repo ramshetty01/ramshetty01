@@ -1,6 +1,11 @@
 # Hi, I'm Ram
 
-Applied AI engineer with six months at Orelyn AI Studio and a two-month full-stack development internship. Building retrieval systems and agent workflows with Python, FastAPI and TypeScript. Seeking full-time Applied AI Engineer or AI Backend Engineer roles.
+Applied AI developer working on freelance client projects at Orelyn and web development at Marcamor Consulting. Building retrieval systems and agent workflows with Python, FastAPI and TypeScript. Seeking full-time Applied AI Engineer or AI Backend Engineer roles.
+
+## Experience
+
+- **Orelyn — Applied AI Developer (Freelance)** | Apr 2026 – Present | Remote, Bengaluru, India. Building client AI/ML projects and exploring agentic AI, harness engineering and loop-based workflows.
+- **Marcamor Consulting — Web Developer Intern** | May 2024 – Present | On-site, Hyderabad, India. Working on web application development.
 
 ## Selected projects
 
